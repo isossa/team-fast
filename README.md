@@ -1,1 +1,1 @@
-# team-fast
+# Team Fast
